@@ -3,16 +3,16 @@
 link:- https://netflix-clone-blush-phi-68.vercel.app/
 
 🎬 Home Page
-![Alt text]()
+![Alt text](https://github.com/kranthi7581/Netflix-clone/blob/main/homepage.png)
 
 🔐 Authentication Page
-![Alt text]()
+![Alt text](https://github.com/kranthi7581/Netflix-clone/blob/main/authentication.png)
 
 📺 Movie Rows
-![Alt text]()
+![Alt text](https://github.com/kranthi7581/Netflix-clone/blob/main/subcategories.png)
 
 ⏭️ palyer
-![Alt text]()
+![Alt text](https://github.com/kranthi7581/Netflix-clone/blob/main/palyerpage.png)
 
 📝 Project Overview
 
